@@ -1,6 +1,6 @@
 # Standard Operating Procedure (SOP)
 
-# Windows Server 2025 Preperation
+# Windows Server 2025 Preparation
 
 **Company Name:** MITT
 **Address:** 130 Henlow Bay
@@ -24,7 +24,7 @@
 
 ---
 
-## Definations
+## Definitions
 - **Active Directory (AD)**: A directory service for user authentication and management.
 - **Domain controller (DC)**: Aserver managing security authentication in an AD environment.
 - **Group Policy (GPO)**: A tool for configuring and managing Windows Settings across a network.
