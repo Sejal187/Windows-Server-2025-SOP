@@ -17,8 +17,12 @@
 1. This document summarizes the steps required for preparing and configuring a Windows Server 2025 efficiently.
 2. It ensures consistency, security, and compliance across all installations.
 
+---
+
 ## Application
 1. This SOP is applicable to IT administrators responsible for deploying Windows Server 2025 in a production or test environment.
+
+---
 
 ## Definations
 - **Active Directory (AD)**: A directory service for user authentication and management.
