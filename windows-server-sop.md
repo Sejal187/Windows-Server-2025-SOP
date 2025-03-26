@@ -14,7 +14,7 @@
 ---
 
 ## Purpose
-1. This document summarizes the steps required for preparing and congiguring a Windows Server 2025 efficiently.
+1. This document summarizes the steps required for preparing and configuring a Windows Server 2025 efficiently.
 2. It ensures consistency, security, and compliance across all installations.
 
 ## Application
