@@ -14,11 +14,11 @@
 ---
 
 ## Purpose
-1. This Document outlines the steps required for preparing and congiguring a Windows Server 2025 efficiently.
+1. This document summarizes the steps required for preparing and congiguring a Windows Server 2025 efficiently.
 2. It ensures consistency, security, and compliance across all installations.
 
 ## Application
-1. This SOP applies to IT administrators responsible for deploying Windows Server 2025 in a production or testing environment.
+1. This SOP is applicable to IT administrators responsible for deploying Windows Server 2025 in a production or test environment.
 
 ## Definations
 - **Active Directory (AD)**: A directory service for user authentication and management.
@@ -33,7 +33,8 @@
 ### **Step 1: System Requirement Check**
 - **Processor:** 64-bit
 - **RAM:** Minimum 16 GB
-- **Network Adapter:** Gigabit Ethernet
+- **Network Adapter:** 1 Gbps or higher
+- **Storage:** 100 GB
 
 ### **Step 2: Download and Install Server 2025**
 1. Download the latest Windows Server 2025 ISO Image from the **Microsoft Website**
