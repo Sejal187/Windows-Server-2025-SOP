@@ -64,6 +64,13 @@
 
 ---
 
+## Reversion Plan
+1.  If any issue occured during deployment, follow these steps:
+- **Restore from Backup**: Use the most recent backup to restore the server.
+- **Safe Mode Boot**: Restart the server in Safe Mode to troubleshoot issues.
+
+--- 
+
 ## Resources
 1.  [Microsoft Windows Server 2025 Documentation](https://docs.microsoft.com)
 2.  [Active Directory Setup Guide](https://learn.microsoft.com/en-us/windows-server/identity/active-directory-domain-services)
